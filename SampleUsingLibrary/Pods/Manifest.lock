@@ -1,0 +1,16 @@
+PODS:
+  - SandiLibrary (1.0.0)
+
+DEPENDENCIES:
+  - SandiLibrary (from `../SandiLibrary`)
+
+EXTERNAL SOURCES:
+  SandiLibrary:
+    :path: "../SandiLibrary"
+
+SPEC CHECKSUMS:
+  SandiLibrary: f991633f1ea4bb458d57f823bd8b1b317c906cbb
+
+PODFILE CHECKSUM: 6468283ef02385d2f6b825f8221a9af1a3025144
+
+COCOAPODS: 1.11.3
