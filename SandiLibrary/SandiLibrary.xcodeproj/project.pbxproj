@@ -9,12 +9,14 @@
 /* Begin PBXBuildFile section */
 		27A7630D2863961500F0CEFA /* SandiLibrary.docc in Sources */ = {isa = PBXBuildFile; fileRef = 27A7630C2863961500F0CEFA /* SandiLibrary.docc */; };
 		27A7630E2863961500F0CEFA /* SandiLibrary.h in Headers */ = {isa = PBXBuildFile; fileRef = 27A7630B2863961500F0CEFA /* SandiLibrary.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		27A763352863EEF800F0CEFA /* dataString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A763342863EEF800F0CEFA /* dataString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		27A763082863961500F0CEFA /* SandiLibrary.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SandiLibrary.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		27A7630B2863961500F0CEFA /* SandiLibrary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SandiLibrary.h; sourceTree = "<group>"; };
 		27A7630C2863961500F0CEFA /* SandiLibrary.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = SandiLibrary.docc; sourceTree = "<group>"; };
+		27A763342863EEF800F0CEFA /* dataString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dataString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 			isa = PBXGroup;
 			children = (
 				27A7630B2863961500F0CEFA /* SandiLibrary.h */,
+				27A763342863EEF800F0CEFA /* dataString.swift */,
 				27A7630C2863961500F0CEFA /* SandiLibrary.docc */,
 			);
 			path = SandiLibrary;
@@ -132,6 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27A763352863EEF800F0CEFA /* dataString.swift in Sources */,
 				27A7630D2863961500F0CEFA /* SandiLibrary.docc in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
