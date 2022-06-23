@@ -1,7 +1,7 @@
 
 # Pod::Spec.new do |spec|
 #   spec.name         = "SandiLibrary"
-#   spec.version      = "0.1.0"
+#   spec.version      = "1.0.0"
 #   spec.summary      = "SandiLibrary Library for exercise ios application"
 #   spec.description  = "This will be help developer for develop application"
 
@@ -23,7 +23,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SandiLibrary'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'This is a meaningful summary of my pod'
 
 # This description is used to generate tags and improve search results.
