@@ -1,6 +1,0 @@
-framework module Pods_SampleUsingLibrary {
-  umbrella header "Pods-SampleUsingLibrary-umbrella.h"
-
-  export *
-  module * { export * }
-}

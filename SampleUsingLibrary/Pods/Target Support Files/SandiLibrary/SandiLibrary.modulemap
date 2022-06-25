@@ -1,6 +1,0 @@
-framework module SandiLibrary {
-  umbrella header "SandiLibrary-umbrella.h"
-
-  export *
-  module * { export * }
-}

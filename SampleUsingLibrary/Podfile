@@ -8,5 +8,7 @@ target 'SampleUsingLibrary' do
   # Pods for SampleUsingLibrary
   
    #pod 'FinalLibrary', :git => 'https://github.com/sandipermata/FinalLibrary.git'
-    pod 'SandiLibrary', :path => '../SandiLibrary'
+    #pod 'SandiLibrary', :path => '../SandiLibrary'
+    pod 'SandiLibrary', :git => 'https://https://github.com/sandipermata/FinalLibrary.git'
+    
 end
